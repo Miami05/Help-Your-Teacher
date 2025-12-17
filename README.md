@@ -278,6 +278,24 @@ Contributions are welcome! Areas for contribution:
 
 ## License
 
-This project is licensed under the MIT License - see below for details:
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+Developed with feedback from code review focusing on:
+- Input validation best practices
+- PEP 8 style guidelines
+- Comprehensive documentation
+- Error handling patterns
+- Clean code principles
+
+## Support
+
+For questions, issues, or suggestions, please open an issue in the repository.
+
+---
+
+**Note**: This system is designed for educational purposes and small-scale grade management. For production use with larger datasets, consider implementing database storage and additional security features.
+
 
 
