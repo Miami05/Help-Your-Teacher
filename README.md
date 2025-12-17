@@ -18,7 +18,7 @@ A Python-based CLI application for managing and analyzing student grades across 
 No installation required. Simply ensure you have Python 3.6+ installed.
 
 ```bash
-python student_grades.py
+python app.py
 ```
 
 ## Usage
