@@ -48,8 +48,10 @@ def get_student_info():
     """
     while True:
         name = input("Enter student's name: ").strip()
-        if not name:
-            print("Invalid input. Name cannot be empty. Please enter a valid name.")
+        if not name or name.isdigit():
+            print(
+                "Invalid input. Name cannot be empty or a digit. Please enter a valid name."
+            )
             continue
         break
 
